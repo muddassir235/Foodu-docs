@@ -61,7 +61,7 @@ In `"dish_basics"` under the `id`( **`"3765"`** ) of the dish store the followin
 
 What it looks like in firebase.
 
-![Screen Shot 2018-11-07 at 11.55.50 AM][Screen Shot 2018-11-07 at 11.55.50 AM]
+![Screen Shot 2018-11-07 at 11.55.50 AM][./Screen Shot 2018-11-07 at 11.55.50 AM.png]
 
 ### `dishes_highlights` :
 
