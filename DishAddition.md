@@ -80,7 +80,7 @@ In `dishes_highlights` under the `id`( **`"3765"`** ) of the dish store the foll
 
 What it looks like in firebase.
 
-![Screen Shot 2018-11-07 at 12.26.30 PM](Screen Shot 2018-11-07 at 12.26.30 PM.png)
+![Screen Shot 2018-11-07 at 12.26.30 PM](https://github.com/muddassir235/Foodu-docs/blob/master/Screen%20Shot%202018-11-07%20at%2012.26.30%20PM.png?raw=true "Highlights")
 
 
 
@@ -104,7 +104,7 @@ The tree will look as follows
 
 What it looks like in firebase:
 
-![Screen Shot 2018-11-07 at 12.33.55 PM](Screen Shot 2018-11-07 at 6.10.19 PM.png)
+![Screen Shot 2018-11-07 at 12.33.55 PM](https://github.com/muddassir235/Foodu-docs/blob/master/Screen%20Shot%202018-11-07%20at%206.10.19%20PM.png?raw=true "Chefs Dishes")
 
 
 
@@ -128,7 +128,7 @@ The tree will look as follows
 
 What it looks like in firebase:
 
-![Screen Shot 2018-11-07 at 6.14.52 PM](Screen Shot 2018-11-07 at 6.14.52 PM.png)
+![Screen Shot 2018-11-07 at 6.14.52 PM](https://github.com/muddassir235/Foodu-docs/blob/master/Screen%20Shot%202018-11-07%20at%206.14.52%20PM.png?raw=true "Categories Dishes")
 
 
 
@@ -174,7 +174,7 @@ The deal's content are as follows:
 
 What it looks like in firebase.
 
-![Screen Shot 2018-11-07 at 6.18.24 PM](Screen Shot 2018-11-07 at 6.18.24 PM.png)
+![Screen Shot 2018-11-07 at 6.18.24 PM](https://github.com/muddassir235/Foodu-docs/blob/master/Screen%20Shot%202018-11-07%20at%206.18.24%20PM.png?raw=true "Deals basics")
 
 
 
@@ -196,7 +196,7 @@ The tree will look as follows
 
 What it looks like in firebase.
 
-![Screen Shot 2018-11-07 at 7.27.07 PM](Screen Shot 2018-11-07 at 7.27.07 PM.png)
+![Screen Shot 2018-11-07 at 7.27.07 PM](https://github.com/muddassir235/Foodu-docs/blob/master/Screen%20Shot%202018-11-07%20at%207.27.07%20PM.png?raw=true "Dish deals")
 
 
 
@@ -216,4 +216,4 @@ Give our assumption of the dishe's `id` the **tree** will look as follows,
 
 What it looks like in firebase:
 
-![Screen Shot 2018-11-07 at 7.29.51 PM](Screen Shot 2018-11-07 at 7.29.51 PM.png)
+![Screen Shot 2018-11-07 at 7.29.51 PM](https://github.com/muddassir235/Foodu-docs/blob/master/Screen%20Shot%202018-11-07%20at%207.29.51%20PM.png?raw=true "Dish deals prices")
