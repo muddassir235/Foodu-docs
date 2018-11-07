@@ -61,7 +61,7 @@ In `"dish_basics"` under the `id`( **`"3765"`** ) of the dish store the followin
 
 What it looks like in firebase.
 
-![Screen Shot 2018-11-07 at 11.55.50 AM](./Screen Shot 2018-11-07 at 11.55.50 AM.png)
+![Screen Shot 2018-11-07 at 11.55.50 AM](Screen Shot 2018-11-07 at 11.55.50 AM.png)
 
 
 
@@ -82,7 +82,7 @@ In `dishes_highlights` under the `id`( **`"3765"`** ) of the dish store the foll
 
 What it looks like in firebase.
 
-![Screen Shot 2018-11-07 at 12.26.30 PM](./Screen Shot 2018-11-07 at 12.26.30 PM.png)
+![Screen Shot 2018-11-07 at 12.26.30 PM](Screen Shot 2018-11-07 at 12.26.30 PM.png)
 
 
 
@@ -106,7 +106,7 @@ The tree will look as follows
 
 What it looks like in firebase:
 
-![Screen Shot 2018-11-07 at 12.33.55 PM](./Screen Shot 2018-11-07 at 6.10.19 PM.png)
+![Screen Shot 2018-11-07 at 12.33.55 PM](Screen Shot 2018-11-07 at 6.10.19 PM.png)
 
 
 
@@ -130,7 +130,7 @@ The tree will look as follows
 
 What it looks like in firebase:
 
-![Screen Shot 2018-11-07 at 6.14.52 PM](./Screen Shot 2018-11-07 at 6.14.52 PM.png)
+![Screen Shot 2018-11-07 at 6.14.52 PM](Screen Shot 2018-11-07 at 6.14.52 PM.png)
 
 
 
@@ -176,7 +176,7 @@ The deal's content are as follows:
 
 What it looks like in firebase.
 
-![Screen Shot 2018-11-07 at 6.18.24 PM](/Users/muddassirkhan/Desktop/Screen Shot 2018-11-07 at 6.18.24 PM.png)
+![Screen Shot 2018-11-07 at 6.18.24 PM](Screen Shot 2018-11-07 at 6.18.24 PM.png)
 
 
 
@@ -198,7 +198,7 @@ The tree will look as follows
 
 What it looks like in firebase.
 
-![Screen Shot 2018-11-07 at 7.27.07 PM](./Screen Shot 2018-11-07 at 7.27.07 PM.png)
+![Screen Shot 2018-11-07 at 7.27.07 PM](Screen Shot 2018-11-07 at 7.27.07 PM.png)
 
 
 
@@ -218,4 +218,4 @@ Give our assumption of the dishe's `id` the **tree** will look as follows,
 
 What it looks like in firebase:
 
-![Screen Shot 2018-11-07 at 7.29.51 PM](./Screen Shot 2018-11-07 at 7.29.51 PM.png)
+![Screen Shot 2018-11-07 at 7.29.51 PM](Screen Shot 2018-11-07 at 7.29.51 PM.png)
