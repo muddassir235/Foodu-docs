@@ -69,7 +69,7 @@ In `dishes_highlights` under the `id`( **`"3765"`** ) of the dish store the foll
 
 ```javascript
 {
-  "Description from chef" : "This mouthwatering meaty dish..",
+  "Description from chef" : "This mouthwatering meaty dish...",
   "Exclusive Experience" : " The dish will be prepared exc...",
   "Serving" : " This dish has a minimum serving of 2 and m...",
   "Special Requests" : " This chef accepts special request..."
