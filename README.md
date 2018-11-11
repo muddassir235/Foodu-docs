@@ -182,7 +182,7 @@ What it looks like in firebase.
 
 In `dishes_deals` under the `id` of the **dish** store the deal's `id`.
 
-Given our assumptions of the dish's `id`
+Given our assumption of the dish's `id`
 
 The tree will look as follows 
 
