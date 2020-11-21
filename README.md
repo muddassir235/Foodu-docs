@@ -217,3 +217,7 @@ Give our assumption of the dishe's `id` the **tree** will look as follows,
 What it looks like in firebase:
 
 ![Screen Shot 2018-11-07 at 7.29.51 PM](https://github.com/muddassir235/Foodu-docs/blob/master/Screen%20Shot%202018-11-07%20at%207.29.51%20PM.png?raw=true "Dish deals prices")
+
+## [Apps by Muddassir Ahmed](https://play.google.com/store/apps/developer?id=Muddassir+Khan):
+* https://play.google.com/store/apps/details?id=com.muddassirkhan.quran_android
+* https://play.google.com/store/apps/details?id=com.app.kitaabattawheed
